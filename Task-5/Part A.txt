@@ -1,0 +1,20 @@
+Part A — Case Study: Cyberbullying
+Crime TypeCyberbullyingTarget ProfileFirst-year college students in IndiaPrimary PlatformWhatsApp, Instagram, Online Gaming ChatsTypical ImpactEmotional distress, anxiety, reputation damageReport Channelcybercrime.gov.in  |  Helpline: 1930
+How It Happened — Step by Step
+Riya, a first-year college student, began receiving messages from an unknown Instagram account. She then discovered that some of her photos had been taken from her profile, edited, and shared in group chats with insulting captions. A friend later showed her these posts, which made her realize the situation had spread beyond private messages. Shocked and embarrassed, Riya understood that she had become a target of cyberbullying.
+Step 1 — Targeting: The bully identified her through her public profile and posts.
+Step 2 — Fake Identity: A fake account was created to stay anonymous.
+Step 3 — Initial Contact: The bully started sending sarcastic and offensive messages.
+Step 4 — Escalation: Hurtful comments were posted on her photos, and private screenshots were misused.
+Step 5 — Public Humiliation: Edited images and memes mocking her were shared in groups and stories.
+Step 6 — Impact & Action: Riya felt stressed and anxious but eventually reported the account using platform tools and cybercrime portals. She filed a report on cybercrime.gov.in but no recovery was possible. 
+
+Part B — Stay Safe Online: Prevention Checklist
+
+?/?Rule?Never send UPI payments to anyone you have not met in person or verified through an official platform.?Always verify a seller's identity through at least two independent channels before any transaction.?Use your UPI app's 'Verify UPI ID' or 'Check Merchant' feature before sending money to an unfamiliar contact.?Enable a daily UPI transaction cap in your bank app — most apps let you set a Rs. 2,000 limit for unknown contacts.?Never click on shortened or suspicious links (bit.ly, tinyurl) received from unknown numbers — these often lead to phishing pages.?Use two-factor authentication (2FA) on all important accounts: college email, Gmail, Instagram, LinkedIn.?Never share your OTP with anyone — no bank, UPI app, government official, or 'senior student' will ever ask for it.?If your phone is lost or stolen, immediately call your bank helpline to freeze UPI-linked accounts.?Report any cybercrime — including attempted fraud — at the National Cyber Crime Portal: cybercrime.gov.in?Save the Cyber Crime Helpline: 1930 (available 24x7 in India). Call immediately if fraud is in progress.
+
+Reflection (100–150 words)
+What surprised me most while researching this topic was how precisely these scams are engineered. In Riya’s case, the harassment wasn’t just random insults; it was a calculated attempt to isolate her by exploiting her social circles and personal insecurities. The way digital platforms can be weaponized to spread misinformation so rapidly is genuinely unsettling—it highlights that cyberbullying is often a deliberate, persistent campaign designed to exert power over a specific individual rather than a one-off disagreement.
+The one habit I will personally change as a result of this task : I will strictly verify the context of any sensitive information shared about others before engaging with it and will immediately report abusive content through official platform channels. The few minutes it takes to report a post could prevent a situation from escalating into a crisis.
+
+
