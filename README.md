@@ -73,7 +73,7 @@ Created a one-page infographic titled **"Be a Smart Digital Citizen"** using Can
 
 ### Task 2 — Student Digital Portfolio 
 
-> **Module 2 | Platforms: GitHub · LinkedIn · leetcode**
+> **Module 2 | Platforms: GitHub · LinkedIn · Kaggle**
 
 Set up three professional platform profiles from scratch:
 
@@ -89,7 +89,7 @@ Created a GitHub profile README with name, branch, year, and learning goals.
 
 ### Task 3 — Coding & Collaboration Platforms 
 
-> **Module 3 | Platforms: Codechef · Google Forms**
+> **Module 3 | Platforms: HackerRank · Google Forms**
 
 **Part A — codechef:**
 Completed the **"coding"** challenge (Problem Solving, Beginner). Score: **100/100**.
