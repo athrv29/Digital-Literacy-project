@@ -6,8 +6,8 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Prince Singh |
-| **Registration No.** | 25BCE10155 |
+| **Name** | Athrva Singh |
+| **Registration No.** | 25BCE10225 |
 | **Branch** | B.Tech — Computer Science & Engineering |
 | **Year** | First Year (2025–26) |
 | **Institution** | VIT Bhopal University |
