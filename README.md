@@ -91,7 +91,7 @@ Created a GitHub profile README with name, branch, year, and learning goals.
 
 > **Module 3 | Platforms: HackerRank · Google Forms**
 
-**Part A — codechef:**
+**Part A — HackerRank:**
 Completed the **"coding"** challenge (Problem Solving, Beginner). Score: **100/100**.
 
 
